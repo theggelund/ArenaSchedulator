@@ -1,0 +1,1 @@
+Simplest attempt to create a application that will automatically create an arena schedule based on inputs
